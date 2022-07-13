@@ -6,16 +6,6 @@
 #
 # Controls : Left and Right arrows to rotate the Spinner in direction, spacebar to change color of Spinner
 #            the Longer you press arrow key the more speed it reaches!
-#
-# By - Jatin Kumar Mandav
-#
-# Website - https://jatinmandav.wordpress.com
-#
-# YouTube Channel - https://www.youtube.com/channel/UCdpf6Lz3V357cIZomPwjuFQ
-# Facebook - https://www.facebook.com/jatinmandav
-# Twitter - @jatinmandav
-# Email - jatinmandav3@gmail.com
-#
 # -----------------------------------------------------------------------------
 
 import pygame
